@@ -1,0 +1,11 @@
+<wpml-config>
+  <custom-fields>
+    <custom-field action="copy">tt_tally_protection_type_field</custom-field>
+    <custom-field action="copy">tt_tally_cost</custom-field>    
+  </custom-fields>
+  <admin-texts>
+    <key name="tallytoo_paywall_html"/>
+    <key name="tallytoo_donatewall_html"/>
+    <key name="tallytoo_donateinline_html"/>
+  </admin-texts>  
+</wpml-config>
