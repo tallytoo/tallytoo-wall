@@ -16,7 +16,7 @@ _This plugin is still in beta, which is why it is currently only available via G
 
 ## Step by step installation instructions
 
-1. Download the the plugin by clicking the "Latest Release" button
+1. Download the latest version of the plugin [here](https://github.com/tallytoo/tallytoo-wall/archive/v.0.1-beta.zip). Alternatively click the "Releases" tab to choose a specific release.
 2. Install the plugin into your WordPress site via the menu "Plugins" -> "Add" -> Upload a plugin
 3. Activate the plugin by clicking the link "Activate"
 4. [Create a publisher account at tallytoo](https://app.tallytoo.com/publisher). You will need to register using an email address or a social media account.
