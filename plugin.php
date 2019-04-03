@@ -4,7 +4,7 @@
  * Plugin URI: https://tallytoo.com
  * Description: Plugin that provides a paywall or donate-wall implementation, based on the tallytoo button.
  * Author: Kevin Glass
- * Version: 0.1-beta
+ * Version: v.0.2-beta
  * Text Domain: tallytoo-wall
  */
 
