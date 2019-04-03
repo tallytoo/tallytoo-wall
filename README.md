@@ -22,7 +22,7 @@ _This plugin is still in beta, which is why it is currently only available via G
 4. [Create a publisher account at tallytoo](https://app.tallytoo.com/publisher). You will need to register using an email address or a social media account.
 5. Once registered, log in and click "Register a publisher". Please provide all the required information. Someone from tallytoo will get back to you shortly in order to validate your account.
 6. Once your account is validated, log in and select your publisher from the list.
-7. By default, a publisher acocunt is not activated. This prevents the tallytoo button from appearing on your website. To activate your account, click the green "Activate" button. You can also finely test your integration (see [Testing the button before deployment](#user-content-testing-the-button-before deployment))
+7. By default, a publisher account is not activated. This prevents the tallytoo button from appearing on your website. To activate your account, click the green "Activate" button. You can also finely test your integration (see [Testing the button before deployment](https://github.com/tallytoo/tallytoo-wall#testing-the-button-before-deployment))
 8. Go to the "Integration" menu.
 9. Register your website domain, including the protocol: for example http://acme.com. You can register a number of domains.
 10. Create an API Key. Copy this key.
@@ -64,7 +64,7 @@ You also have the option to just insert a donation request within your content. 
 
 The button is fully customisable, and this can be done in the menu "Appearance". Make your changes, and click the "Save settings" button to see the results.
 
-The characteristics that are not customisable are:
+The only features that are not customisable are:
 
 * The tallytoo logo
 * The text that appears in the button (currently, the text automatically shows in English or French, according to the user's browser settings)
@@ -76,13 +76,13 @@ You can test and customise the tallytoo button without it appearing for your vis
 
 First create a private page or post in WordPress. This can be done by changing the "Visibility" property to private. Now this page is available only to you, the administrator of the website.
 
-In the [publisher portal](https://app.tallytoo.com/publisher), click on the top level menu, and make sure the state of your integration is "Inactive". An inactivate state, the tallytoo button will only appear for a logged-in test user. You can create test-users with or without tallytoo points in the "Test Users" menu. 
+In the [publisher portal](https://app.tallytoo.com/publisher), click on the top level menu, and make sure the state of your integration is "Inactive". In an inactive state, the tallytoo button will only appear for a logged-in test user. You can create test-users with or without tallytoo points in the "Test Users" menu. 
 
 Log in as one of your test users.
 
 _Note: all points earned or spent as a test user are null, and will not earn you anything. Test users are exclusively for testing integration._
 
-Refresh your private web-page in which you have flagged your content for protection. You can test how the tallytoo button appear, how the overlay opens, and what happens when a point is earned.
+Refresh your private web-page in which you have flagged your content for protection. You can test how the tallytoo button appears, how the overlay opens, and what happens when a point is earned.
 
 Once you are done, you can activate your account again via the top level menu.
 
