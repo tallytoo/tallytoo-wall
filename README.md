@@ -12,9 +12,11 @@ All you need to do is create a free tallytoo account, integrate this plugin, and
 
 _If you wish another type of WordPress integration that does not require the creation of a paywall, do not hesitate to contact us at [support@tallytoo.com](mailto:support@tallytoo.com)!_
 
-_This plugin is still in beta, which is why it is currently only available via GitHub. Once the beta phase is over, it will be made available in the WordPress plugins directory. To report any problems, please do not hesitate to contact us as [support@tallytoo.com](mailto:support@tallytoo.com)._
+_This plugin is still in beta, which is why it is currently only available via GitHub. Once the beta phase is over, it will be made available in the WordPress plugins directory. To report any problems, please do not hesitate to contact us at [support@tallytoo.com](mailto:support@tallytoo.com)._
 
 ## Step by step installation instructions
+
+You can also follow the [official guide](https://tallytoo.com/publishers/integration/wordpress-plugin-tallytoo-wall/).
 
 1. Download the latest version of the plugin [here](https://github.com/tallytoo/tallytoo-wall/archive/v.0.2-beta.zip). Alternatively click the "Releases" tab to choose a specific release.
 2. Install the plugin into your WordPress site via the menu "Plugins" -> "Add" -> Upload a plugin

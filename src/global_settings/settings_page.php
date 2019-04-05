@@ -68,7 +68,8 @@ function tallytoo_options_page_html()
 
         <p><?php _e("Thanks for installing the tallytoo pay- donate- wall plugin", 'tallytoo-wall'); ?></p>
         <p><?php _e("This plugin allows you to easily use the tallytoo button to monetise your content", 'tallytoo-wall'); ?></p>
-        <p><?php _e("We suggest that you first go to <a href='https://tallytoo.com/wordpress-plugin-tallytoo-wall' target='_blank'>tallytoo.com</a> for a full explanation of how tallytoo works, and to see a demo.", 'tallytoo-wall'); ?></p>
+        <p><?php _e("You can find detailed instructions on setting up this plugin at <a href='https://tallytoo.com/publishers/integration/wordpress-plugin-tallytoo-wall/' target='_blank'>here</a>." , 'tallytoo-wall'); ?></p>
+        <p><?php _e("We suggest that you first go to <a href='https://tallytoo.com/publishers' target='_blank'>tallytoo.com</a> for a full explanation of how tallytoo works, and to see a demo.", 'tallytoo-wall'); ?></p>
         <br>
         <div class="tt_beta_box">
           <p><?php _e("The tallytoo service as well as this plugin is in <strong>beta</strong>. Please don't hesitate to send us information about bugs, your feedback, or suggestions to <a href='mailto:support@tallytoo.com'>support@tallytoo.com</a>. Please be as explicit as possible, including as much information as possible.", 'tallytoo-wall'); ?></p>
